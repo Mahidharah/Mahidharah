@@ -8,10 +8,8 @@
 
 🤝 I’m looking for help and to collaborate on **shareApp**
 
-
 📫 Reach me at **mahidharah@gmail.com**
 
-📄 Know about my experiences [https://www.linkedin.com/in/mahidharah/](https://www.linkedin.com/in/mahidharah/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
