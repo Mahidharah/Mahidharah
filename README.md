@@ -9,9 +9,7 @@
 <h3>🤝 I’m looking for help and to collaborate on **shareApp**</h3>
 
 
-<h2>📫 Reach me at **mahidharah@gmail.com**</h2>
-
-<h2>📄 Know about my experiences [https://www.linkedin.com/in/mahidharah/](https://www.linkedin.com/in/mahidharah/)</h2>
+<h2>📫 Reach me at mahidharah@gmail.com</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
