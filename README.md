@@ -1,5 +1,5 @@
 <h1 align="center">I am Mahidharah</h1>
-<h3 align="center">A passionate artificial intelligence and machine learning developer from National University Singapore (NUS)</h3>
+<h3 align="center">A passionate, delligent and driven Computer Scientist from National University Singapore (NUS)</h3>
 
 <p align="left"> <img src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" /> </p>
 
