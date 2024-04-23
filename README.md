@@ -2,17 +2,16 @@
 
 <p align="left"> <img src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" /> </p>
 
-- 🔭 I’m currently working on **shareApp**
+🔭 I’m currently working on **shareApp**
 
-- 🌱 I’m currently learning **React Native, Dart & Flutter, TypeScript**
+🌱 I’m currently learning **React Native, Dart & Flutter, TypeScript**
 
-- 👯 I’m looking to collaborate on **shareApp**
+🤝 I’m looking for help and to collaborate on **shareApp**
 
-- 🤝 I’m looking for help with **shareApp**
 
-- 📫 How to reach me **mahidharah@gmail.com**
+📫 Reach me at **mahidharah@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mahidharah/](https://www.linkedin.com/in/mahidharah/)
+📄 Know about my experiences [https://www.linkedin.com/in/mahidharah/](https://www.linkedin.com/in/mahidharah/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
