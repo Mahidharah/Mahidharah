@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@ahidharah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@mahidharah" height="30" width="40" /></a>
+<a href="mahidharah@gmail.com" target="blank"><img align="center" src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2020/10/06/icon-google-gmail-new.png" alt="@mahidharah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahidharah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@mahidharah" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCyeh9izLHuT4wbA1m_Atilw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mahidharahrajendran361" height="30" width="40" /></a>
 </p>
 
