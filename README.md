@@ -1,4 +1,4 @@
-<h1 align="center">An inquisitivem,  passionate, driven Computer Scientist</h1>
+<h1 align="center">An inquisitive, passionate, and driven Computer Scientist</h1>
 
 <p align="left"> <img src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" /> </p>
 
