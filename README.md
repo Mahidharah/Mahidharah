@@ -2,11 +2,13 @@
 
 <p align="left"> <img src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" /> </p>
 
-🔭    I’m currently working on **LeetCode Tracker**
+💼     I’m currently interning at **ST Engineering**
+
+🔭    I’m currently working on **A cultural app with cannon.js**
 
 🌱    I’m currently learning **React Native, Dart & Flutter, TypeScript**
 
-🤝    I’m looking for help and to collaborate on **shareApp**
+🤝    I’m looking for help and to collaborate on **RAG applications on LLAMA 3.1**
 
 📫    Reach me at **mahidharah@gmail.com**
 
