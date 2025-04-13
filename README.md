@@ -1,14 +1,14 @@
-<h1 align="center">An inquisitive, passionate, and driven Computer Scientist</h1>
+<h1 align="center">An inquisitive Computer Scientist</h1>
 
 <p align="left"> <img src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" /> </p>
 
-💼     I’m currently interning at **ST Engineering**
+💼     I’m currently looking for an internship
 
-🔭    I’m currently working on **A cultural app with cannon.js** and **A collaborative application using microservices architecture**
+🔭    I’m currently working on **A cultural app with cannon.js and blender**
 
 🌱    I’m currently learning **React Native, Dart & Flutter, TypeScript**
 
-🤝    I’m looking for help and to collaborate on **Fully local RAG applications with LLAMA 3.1**
+🤝    I’m looking for help and to collaborate on **Fully local RAG applications**
 
 📫    Reach me at **mahidharah@gmail.com**
 
